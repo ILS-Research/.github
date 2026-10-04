@@ -12,7 +12,7 @@ Praxis, Politik und Gesellschaft Erkenntnisse für eine nachhaltige Transformati
 
 Webseite: https://www.ils-forschung.de/ · GitLab: https://gitlab.com/ils-research
 
-Auf GitHub teilen wir Software, die in unserer Forschung und im Arbeitsalltag entsteht, soweit sie anderen nützt.
+**GitHub ist nicht alles, was wir veröffentlichen.** Hier findest du eine Auswahl, vor allem unsere Zotero-Plugins. Der größere Teil unseres übrigen Codes liegt auf GitLab, in unserer Hauptgruppe: **https://gitlab.com/ils-research**.
 
 ## Zotero-Plugins
 
