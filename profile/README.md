@@ -1,6 +1,18 @@
-# ILS – Institut für Landes- und Stadtentwicklungsforschung gGmbH, Dortmund
+# ILS – Research Institute for Regional and Urban Development
 
-https://ils-forschung.de
+**English** · [Deutsch](README.de.md)
+
+## Who we are
+
+The ILS (Institut für Landes- und Stadtentwicklungsforschung gGmbH) in Dortmund, Germany, does spatial urban research.
+The urbanisation of the early 21st century is enormously dynamic: urban spaces emerge, grow and change, and their
+transformation is increasingly discontinuous and disparate. We investigate the dimensions of urban change at different
+scales and in international comparison, and in active dialogue with practitioners, policy-makers and society we turn
+the findings into insights for the sustainable transformation and design of urban spaces.
+
+Website: https://www.ils-forschung.de/en/
+
+On GitHub we share software we develop in our research and daily work, as far as it is useful to others.
 
 ## Zotero plugins
 
@@ -35,7 +47,6 @@ These plugins are written by others; our forks add what we needed. Credit and li
 |---|---|
 | [**delfi-dataset-fixer**](https://github.com/ILS-Research/delfi-dataset-fixer) | Jupyter notebook that repairs the nationwide German timetable data set (DELFI, GTFS format) so routing software such as OpenTripPlanner can load it: it drops stops without an ID, points stop times at the parent station where a stop has the wrong location type, removes transfers to stops that do not exist, and writes a fixed GTFS zip. The notebook is MIT-licensed; the DELFI data set has its own licence. |
 
-## Mitwirken
+## Contributing
 
-Rückmeldungen und Fehlermeldungen bitte als Issue im jeweiligen Repository. Feedback and bug reports are welcome as
-issues in the respective repository.
+Feedback and bug reports are welcome as issues in the respective repository.
