@@ -12,7 +12,7 @@ the findings into insights for the sustainable transformation and design of urba
 
 Website: https://www.ils-forschung.de/en/ · GitLab: https://gitlab.com/ils-research
 
-**GitHub is not everything we publish.** Here you find a selection, mainly our Zotero plugins. Most of our other code lives on GitLab, in our main group: **https://gitlab.com/ils-research**.
+**GitHub is not everything we publish.** Here you find a selection, mainly our Zotero plugins. More of our code lives on GitLab, in our main group: **https://gitlab.com/ils-research**.
 
 ## Zotero plugins
 
