@@ -10,7 +10,7 @@ verändern sich, ihr Wandel verläuft zunehmend diskontinuierlich und disparat. 
 urbanen Wandels auf unterschiedlichen Maßstabsebenen und international vergleichend und gewinnen im aktiven Dialog mit
 Praxis, Politik und Gesellschaft Erkenntnisse für eine nachhaltige Transformation und Gestaltung urbaner Räume.
 
-Webseite: https://www.ils-forschung.de/
+Webseite: https://www.ils-forschung.de/ · GitLab: https://gitlab.com/ils-research
 
 Auf GitHub teilen wir Software, die in unserer Forschung und im Arbeitsalltag entsteht, soweit sie anderen nützt.
 
