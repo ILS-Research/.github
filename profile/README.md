@@ -1,6 +1,6 @@
 # ILS – Research Institute for Regional and Urban Development
 
-**English** · [Deutsch](README.de.md)
+**English** · [Deutsch](https://github.com/ILS-Research/.github/blob/main/profile/README.de.md)
 
 ## Who we are
 

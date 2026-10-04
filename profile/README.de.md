@@ -1,6 +1,6 @@
 # ILS – Institut für Landes- und Stadtentwicklungsforschung
 
-[English](README.md) · **Deutsch**
+[English](https://github.com/ILS-Research/.github/blob/main/profile/README.md) · **Deutsch**
 
 ## Wer wir sind
 
