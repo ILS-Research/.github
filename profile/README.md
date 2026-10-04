@@ -29,6 +29,12 @@ These plugins are written by others; our forks add what we needed. Credit and li
 | [**Find Online References**](https://github.com/ILS-Research/zotero-find-online-references) | [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) (AGPL-3.0) | Runs on Zotero 7 to 10 and offers an API other plugins can use (SeekChat reads reference lists and imports sources through it). Experimental, not 100 % reliable. |
 | [**Semantic Zotero**](https://github.com/ILS-Research/semantic-zotero) | [AgiNetz/semantic-zotero](https://github.com/AgiNetz/semantic-zotero) (MIT) | Branch for use with the Semantic Scholar Bridge. |
 
+## Public transport data
+
+| Tool | What it does |
+|---|---|
+| [**delfi-dataset-fixer**](https://github.com/ILS-Research/delfi-dataset-fixer) | Jupyter notebook that repairs the nationwide German timetable data set (DELFI, GTFS format) so routing software such as OpenTripPlanner can load it: it drops stops without an ID, points stop times at the parent station where a stop has the wrong location type, removes transfers to stops that do not exist, and writes a fixed GTFS zip. The notebook is MIT-licensed; the DELFI data set has its own licence. |
+
 ## Mitwirken
 
 Rückmeldungen und Fehlermeldungen bitte als Issue im jeweiligen Repository. Feedback and bug reports are welcome as
